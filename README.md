@@ -22,10 +22,10 @@ Bem vindo(a) ao meu repositório do github, onde faço registro de alguns projet
 
 ### 📫 **Redes Sociais e contato**
 <p align="left">
- <a href="#" alt="Gmail">
+ <a href="pedrocmoreira97@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedrocmoreira97@gmail.com"/></a>
   
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/pedro-cmoreira" /></a>
+  <a href="https://www.linkedin.com/in/pedro-cmoreira" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&/></a>
 </p>
 <hr>
