@@ -1,28 +1,31 @@
-<!--### Hi there 👋
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=PEDROCMOREIRA&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-**pedrominch/pedrominch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=pedrocmoreira&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-Here are some ideas to get you started:
+<p>
+Olá, eu sou o Pedro Moreira 🚀<br/>
+Bem vindo(a) ao meu repositório do github, onde faço registro de alguns projetos pessoais. Atualmente trabalho com a linguagem Javascript utilizando o superset Typescript na maioria dos projetos, além das stacks React Native, ReactJS e NodeJS.<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+💼 Trabalhando atualmente como desenvolvedor mobile na Agência Alldigital<br/>
+</p>
 
+### 📓**Linguagens e Ferramentas**
 
-# Pedro Moreira :man_technologist:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedro-cmoreira/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pedrominch/)
+<div>
+<img height="22" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img height="22" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img height="22" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img height="22" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img height="22" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+</div>
 
-## Hi :wave: , welcome to my repository! Here is gathered most of my study project and my daily evolution on programing world. :trophy:
-
-
-I'm a Computer Science student looking for opportunities and collaboration in projects related to mobile development.
-- :notebook: I’m currently working with React Native and Typescript.
-- 📫 How to reach me: pedrocmoreira97@gmail.com
+### 📫 **Redes Sociais e contato**
+<p align="left">
+ <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedrocmoreira97@gmail.com"/></a>
+  
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/pedro-cmoreira" /></a>
+</p>
+<hr>
