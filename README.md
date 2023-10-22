@@ -7,7 +7,7 @@
 Olá, eu sou o Pedro Moreira 🚀<br/>
 Bem vindo(a) ao meu repositório do github, onde faço registro de alguns projetos pessoais. Atualmente trabalho com a linguagem Javascript utilizando o superset Typescript na maioria dos projetos, além das stacks React Native, ReactJS e NodeJS.<br/>
 
-💼 Trabalhando atualmente como desenvolvedor mobile na Agência Alldigital<br/>
+💼 Trabalhando atualmente como mobile na Agência Alldigital<br/>
 </p>
 
 ### 📓**Linguagens e Ferramentas**
